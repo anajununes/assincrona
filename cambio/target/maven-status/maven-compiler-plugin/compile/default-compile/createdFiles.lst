@@ -1,0 +1,4 @@
+model\Moeda.class
+view\MainView.class
+controller\CotacaoController.class
+model\Cotacao.class
