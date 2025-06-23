@@ -1,0 +1,7 @@
+model\Veiculo.class
+model\Condutor.class
+mock\APIVeiculoMock.class
+model\Banco.class
+controller\OficinaController.class
+view\MainView.class
+model\Servico.class
